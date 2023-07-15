@@ -1,0 +1,2 @@
+JSON Server and JSON Server Auth
+json-server data/db.json -m ./node_modules/json-server-auth
